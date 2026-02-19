@@ -571,6 +571,7 @@ span {
   padding: 12px 28px 10px 28px;
   display: flex;
   margin-right: 22px;
+  align-items: center;
 }
 
 .menu-level-one {
